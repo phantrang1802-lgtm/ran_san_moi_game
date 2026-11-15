@@ -1,0 +1,6 @@
+{
+  "name": "Rắn Săn Mồi 3D",
+  "description": "Trò chơi Rắn Săn Mồi 3D tương tác bằng Three.js với đồ họa PBR, nhiều góc nhìn camera và âm thanh tổng hợp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
